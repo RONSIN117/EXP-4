@@ -45,6 +45,7 @@ Bridge rectifier with filter:
 <img width="1001" height="521" alt="image" src="https://github.com/user-attachments/assets/baa0b1a4-a04e-414f-ae06-7da8f2d57c42" />
 
 TABULAR COLUMN
+
 <img width="842" height="1280" alt="image" src="https://github.com/user-attachments/assets/34eca131-d84a-44e2-a689-5650d6c41b58" />
 
 
